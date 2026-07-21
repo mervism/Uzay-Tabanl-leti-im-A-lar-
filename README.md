@@ -1,6 +1,4 @@
-# Uzay-Tabanl-leti-im-A-lar-
-
-
+# Uzay-Tabanlı İletişim Ağları
 Temel referanslar
 
 Kodheli, O. et al. – “Satellite Communications in the New Space Era: A Survey and Future Challenges”
